@@ -1,3 +1,16 @@
+projectiles.js
+--------------
+
+### Overview
+
+projectiles.js is a pure JavaScript demo that will create a projectile 
+every time you click the mouse in the browser window.  Each projectile
+will have a random colour, angle and speed. 
+
+### Example
+
+[Click here to view an example.](http://myrs.uk.s3-website-eu-west-1.amazonaws.com/examples/projectiles.html)
+
 ### Testing
 
 The root index.html can be used to inspect the code.
@@ -15,4 +28,5 @@ To install the package and build the following needs to be run.
 > gulp
 ```
 
-This will also start a process to watch for changes in either source file and recompile.
+This will also start a process to watch for changes in either source file
+and recompile.
