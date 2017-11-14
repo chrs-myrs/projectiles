@@ -9,7 +9,7 @@ will have a random colour, angle and speed.
 
 ### Example
 
-[Click here to view an example.](http://myrs.uk.s3-website-eu-west-1.amazonaws.com/examples/projectiles.html)
+[http://myrs.uk/examples/projectiles.html](http://myrs.uk/examples/projectiles.html)
 
 ### Testing
 
